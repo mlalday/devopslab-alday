@@ -1,2 +1,2 @@
-# devops-experience
-Palestra no DevOps Experience
+# DEVOPS Hands On - Aula 2 DEVOPS
+Applicação Simples em Pyton/Flask com teste usando UnitTest
